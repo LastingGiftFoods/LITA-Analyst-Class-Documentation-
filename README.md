@@ -8,6 +8,6 @@ This is where I document my first project with Incubator Hub while learning Data
 ### Project Source 
 
 ### Tools Used
-Microsoft Excel for data cleaning, sorting and virtualization
-SQL Structured Query Language for data query
-GitHub for portfolio building 
+-Microsoft Excel for data cleaning, analysis and virtualization
+-SQL Structured Query Language for querying daya
+-GitHub for portfolio building 
