@@ -13,4 +13,11 @@ This is where I document my first project with Incubator Hub while learning Data
   2. analysis and
   3. virtualization
 - SQL - Structured Query Language for querying daya
-- GitHub for portfolio building 
+- GitHub for portfolio building
+
+### Data Cleaning and Preparation - the initial phase of the data cleaning and preparation we perform the following:
+- Data loading and inspection
+- Handling missing Variables
+- Data cleaning and formation
+
+
