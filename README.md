@@ -36,6 +36,7 @@ EDA - involved the exploring
 ---
 This is where we include some basic lines of code or queries or even some of the DAX expression used during your analysis 
 
-SQL
+--- SQL
+
 Select * from TABLE 1
 where condition = TRUE 
