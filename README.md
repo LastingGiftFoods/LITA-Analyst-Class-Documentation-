@@ -40,3 +40,7 @@ This is where we include some basic lines of code or queries or even some of the
 
 Select * from TABLE 1
 where condition = TRUE 
+
+### Data Visualization 
+
+(Frag you images or pictures from the folders and paste)
