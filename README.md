@@ -5,13 +5,13 @@ This is where I document my first project with Incubator Hub while learning Data
 ---
 [Project Overview](#Project-Overview)
 
-[Project Source](#Project Source)
+[Project Source](#Project-Source)
 
-[Tools Used](#Tools Used)
+[Tools Used](#Tools-Used)
 
-[Exploratory DAta Analysis](#Exploratory DAta Analysis)
+[Exploratory DAta Analysis](#Exploratory-DAta-Analysis)
 
-[Data Visualization](#Data Visualization)
+[Data Visualization](#Data-Visualization)
 
 
 ### Project Overview 
