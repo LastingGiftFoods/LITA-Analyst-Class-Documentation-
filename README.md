@@ -1,7 +1,18 @@
 # LITA-Analyst-Class-Documentation-
 This is where I document my first project with Incubator Hub while learning Data Analysis 
 
-### Project Title: E-commerce Sales Analysis 
+### Project Title: E-commerce Sales Analysis
+---
+[Project Overview](#Project-Overview)
+
+[Project Source](#Project Source)
+
+[Tools Used](#Tools Used)
+
+[Exploratory DAta Analysis](#Exploratory DAta Analysis)
+
+[Data Visualization](#Data Visualization)
+
 
 ### Project Overview 
 ---
