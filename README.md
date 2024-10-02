@@ -26,3 +26,7 @@ EDA - involved the exploring
 - What's the overall sales trend
 - Which products are top sallers
 - What are the products on peak sales
+
+### Data Analysis
+This is where we include some basic lines of code or queries or even some of the DAX expression used during your analysis 
+
