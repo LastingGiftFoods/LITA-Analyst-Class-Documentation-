@@ -20,4 +20,7 @@ This is where I document my first project with Incubator Hub while learning Data
 - Handling missing Variables
 - Data cleaning and formation
 
+### Exploratory DAta Analysis 
+EDA - involved the exploring 
+
 
