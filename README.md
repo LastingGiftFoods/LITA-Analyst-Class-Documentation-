@@ -23,4 +23,6 @@ This is where I document my first project with Incubator Hub while learning Data
 ### Exploratory DAta Analysis 
 EDA - involved the exploring 
 
-
+- What's the overall sales trend
+- Which products are top sallers
+- What are the products on peak sales
